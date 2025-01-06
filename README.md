@@ -1,2 +1,2 @@
 # otk
-Order of the Kraken
+The Order of the Kraken GitHub repository
